@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[naq:home|Door43 (naq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-naq|d43-naq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-naq/archive/master.zip|d43-naq.zip]]
+
+**Recent Changes**
+{{changes>ns = naq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/naq|Ethnologue data]]
+
